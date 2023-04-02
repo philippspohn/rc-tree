@@ -26,11 +26,11 @@ node_modules
 .cache
 dist
 *.css
-build
-lib
+# build
+# lib
 /coverage
 yarn.lock
-es/
+# es/
 !tests/__mocks__/rc-util/lib
 # umi
 .umi
